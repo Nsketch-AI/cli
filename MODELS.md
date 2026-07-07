@@ -1,6 +1,6 @@
 # Nsketch Models
 
-Live catalog: `nsketch models list --json`. Credit pricing: `https://nsketchai.com/api/mobile/pricing`.
+Live catalog: `nsketch models list --json`. Credit pricing: `https://nsketch.ai/api/mobile/pricing`.
 
 ## Image Models (39)
 

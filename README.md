@@ -1,6 +1,6 @@
 # Nsketch CLI
 
-Generate images, videos, voice, motion transfer, and more with [Nsketch AI](https://nsketchai.com) from your terminal — or let your AI agent (Claude Code, Codex, Cursor) do it for you.
+Generate images, videos, voice, motion transfer, and more with [Nsketch AI](https://nsketch.ai) from your terminal — or let your AI agent (Claude Code, Codex, Cursor) do it for you.
 
 ```
 npm install -g @nsketch/cli
@@ -40,7 +40,7 @@ Global flags: `--wait` (block until done, print result URL), `--wait-timeout 10m
 ## For AI agents
 
 - Install the agent skills: [`npx skills add Nsketch-AI/skills`](https://github.com/Nsketch-AI/skills)
-- Prefer connectors? Use the hosted MCP server instead: `https://nsketchai.com/mcp`
+- Prefer connectors? Use the hosted MCP server instead: `https://nsketch.ai/mcp`
 - All commands support `--json`; async jobs support `--wait` so the CLI handles polling.
 
 ## Development
