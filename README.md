@@ -40,7 +40,7 @@ Global flags: `--wait` (block until done, print result URL), `--wait-timeout 10m
 ## For AI agents
 
 - Install the agent skills: [`npx skills add Nsketch-AI/skills`](https://github.com/Nsketch-AI/skills)
-- Prefer connectors? Use the hosted MCP server instead: `https://mcp.nsketch.ai/mcp`
+- Prefer connectors? Use the hosted MCP server instead: `https://nsketch.ai/api/mcp`
 - All commands support `--json`; async jobs support `--wait` so the CLI handles polling.
 
 ## Development
