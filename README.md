@@ -15,6 +15,15 @@ nsketch auth login
 # Generate an image and get the result URL
 nsketch generate image --prompt "a corgi surfing at golden hour" --wait
 
+# Seedream 5 Pro at 2K
+nsketch generate image --model img-seedream-v5-pro --resolution 2K \
+  --prompt "a cinematic mountain village" --wait
+
+# Seedream 5 Pro edit using the reference image's natural aspect ratio
+nsketch generate image --model img-seedream-v5-pro-edit --resolution 2K \
+  --aspect-ratio auto_2K --image ./reference.png \
+  --prompt "make this cinematic" --wait
+
 # Image-to-video — local files are auto-uploaded
 nsketch generate video --prompt "the corgi rides the wave" --image ./corgi.png --wait
 ```
