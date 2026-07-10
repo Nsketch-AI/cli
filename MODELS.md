@@ -2,7 +2,7 @@
 
 Live catalog: `nsketch models list --json`. Credit pricing: `https://nsketch.ai/api/mobile/pricing`.
 
-## Image Models (39)
+## Image Models (41)
 
 | Model ID | Name |
 |---|---|
@@ -24,6 +24,8 @@ Live catalog: `nsketch models list --json`. Credit pricing: `https://nsketch.ai/
 | `img-seedream-v45-edit` | Seedream V45 Edit |
 | `img-seedream-v5-lite` | Seedream V5 Lite |
 | `img-seedream-v5-lite-edit` | Seedream V5 Lite Edit |
+| `img-seedream-v5-pro` | Seedream V5 Pro |
+| `img-seedream-v5-pro-edit` | Seedream V5 Pro Edit |
 | `img-flux-kontext-pro` | Flux Kontext Pro |
 | `img-gpt-image-1` | Gpt Image 1 |
 | `img-gpt-image-1-edit` | Gpt Image 1 Edit |
@@ -115,3 +117,5 @@ nsketch generate video --prompt "..." --model <model-id> --wait
 ```
 
 Model ids ending in `-edit` require `--image <pathOrUrl>`.
+
+Seedream 5 Pro supports `--resolution 1K` (default) or `--resolution 2K`. For edits that should preserve a reference image's natural aspect ratio, use `--aspect-ratio auto_1K` or `--aspect-ratio auto_2K` with the matching resolution tier.
