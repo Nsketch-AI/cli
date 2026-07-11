@@ -62,7 +62,7 @@ Live catalog: `nsketch models list --json`. Credit pricing: `https://nsketch.ai/
 | `kling-o3` | Kling O3 |
 | `vid-kling-2.5-pro` | Kling 2 5 Pro |
 | `kling-2.5-turbo-transition` | Kling 2 5 Transition |
-| `kie-sora-2` | Sora 2 |
+| `sora-2` | Sora 2 |
 | `vid-gemini-omni-video` | Gemini Omni Video |
 | `vid-veo-3.1` | Veo 3 1 |
 | `veo3.1-transition` | Veo 3 1 Transition |
@@ -70,8 +70,8 @@ Live catalog: `nsketch models list --json`. Credit pricing: `https://nsketch.ai/
 | `veo3.1-fast-transition` | Veo 3 1 Fast Transition |
 | `vid-veo-3.1-lite` | Veo 3 1 Lite |
 | `veo3.1-lite-transition` | Veo 3 1 Lite Transition |
-| `kie-wan-2.6` | Wan 2 6 |
-| `kie-wan-2.5` | Wan 2 5 |
+| `wan-2.6` | Wan 2 6 |
+| `wan-2.5` | Wan 2 5 |
 | `vid-wan-2.1` | Wan 2 1 |
 | `vid-hailuo-2.3-pro` | Hailuo 2 3 Pro |
 | `vid-hailuo-2.3` | Hailuo 2 3 |
@@ -80,14 +80,14 @@ Live catalog: `nsketch models list --json`. Credit pricing: `https://nsketch.ai/
 | `vid-seedance-lite` | Seedance Lite |
 | `vid-seedance-pro` | Seedance Pro |
 | `seedance-pro-transition` | Seedance Pro Transition |
-| `kie-seedance-1.5-pro` | Seedance 1 5 Pro |
-| `kie-seedance-1.5-pro-transition` | Seedance 1 5 Pro Transition |
-| `pastapi-seedance-2-preview` | Seedance 2 Preview |
-| `pastapi-seedance-2-fast-preview` | Seedance 2 Fast Preview |
-| `pastapi-seedance-2-mini-preview` | Seedance 2 Mini Preview |
-| `dreamina-seedance-2-omni` | Seedance 2 Omni |
-| `dreamina-seedance-2-omni-fast` | Seedance 2 Omni Fast |
-| `dreamina-seedance-2-mini-omni` | Seedance 2 Mini Omni |
+| `seedance-1.5-pro` | Seedance 1 5 Pro |
+| `seedance-1.5-pro-transition` | Seedance 1 5 Pro Transition |
+| `seedance-2-preview` | Seedance 2 Preview |
+| `seedance-2-fast-preview` | Seedance 2 Fast Preview |
+| `seedance-2-mini-preview` | Seedance 2 Mini Preview |
+| `seedance-2-omni` | Seedance 2 Omni |
+| `seedance-2-omni-fast` | Seedance 2 Omni Fast |
+| `seedance-2-mini-omni` | Seedance 2 Mini Omni |
 | `pixverse-v5` | Pixverse V5 |
 | `pixverse-v5-transition` | Pixverse V5 Transition |
 | `pixverse-v5.6` | Pixverse V56 |
